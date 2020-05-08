@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 This is a simple web project, deployment can be on any web server
 
 ## How to contribute
-Be generous 
+Please fork this repo and submit PR
 
 ### Copyright
 2020 Copyright Notice
