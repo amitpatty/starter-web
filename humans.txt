@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Amit Patange -- Developer -- @amitpatange
 
 # THANKS
 
