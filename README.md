@@ -17,4 +17,4 @@ This is a simple web project, deployment can be on any web server
 Please fork this repo and submit PR
 
 ### Copyright
-2020 Copyright Notice
+2020 Copyright Notice. All rights reserved.
