@@ -16,4 +16,4 @@ This is a simple web project, deployment can be on any web server
 Be generous 
 
 ### Copyright
-2020 Copyright
+2020 Copyright Notice
